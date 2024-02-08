@@ -20,7 +20,7 @@ Este projeto foi desenvolvido utilizando:
 - TypeScript
 - Node
 - Fastify
-- Postgress
+- Postgres
 - Prisma
 - Docker
 - Redis
